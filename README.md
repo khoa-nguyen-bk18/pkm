@@ -1,57 +1,52 @@
-
 # Welcome to Nguyen Dang Khoa's Personal Knowledge Management (PKM)
 
-## Who I Am
-Hello! I’m Nguyen Dang Khoa, a software developer with nearly seven years of experience specializing in Android development and cross-platform tools like React Native and Flutter. My journey in technology extends to working with Microsoft platforms, automating processes with Power Automate and VBA, and consulting on low-code solutions for clients. I’m passionate about building software that solves real-life problems and helps people save time on daily tasks.
+## Introduction
+Welcome to my digital garden! This Personal Knowledge Management (PKM) system is built with [Quartz](https://quartz.jzhao.xyz/), transforming my notes and insights into an interconnected knowledge base. As a mobile developer and technology enthusiast, I share my experiences in software development, automation, and various tech domains.
 
-### Tags
-#Developer #Android #MicrosoftPlatforms #PowerAutomate #VBA #LowCode #ProblemSolver
+[📚 Explore the live site](https://khoa-nguyen-bk18.github.io/pkm/)
 
-## What I Do
-I am a mobile developer and technology enthusiast, focusing on delivering innovative and user-friendly applications. My expertise includes:
-- Building native Android apps with Kotlin.
-- Developing cross-platform applications with modern frameworks.
-- Automating workflows and creating low-code solutions with the Microsoft Power Platform.
-- Exploring emerging technologies to enhance efficiency and creativity.
+## 🧑‍💻 About Me
+I'm Nguyen Dang Khoa, a software developer with 7 years of experience in:
+- Android development (Native & Cross-platform)
+- React Native & Flutter
+- Microsoft Power Platform & VBA
+- Low-code solution consulting
 
-### Tags
-#MobileDevelopment #Kotlin #CrossPlatform #Innovation #Efficiency
+## 🎯 What You'll Find Here
+This PKM serves as:
+- A living documentation of my technical journey
+- A collection of project insights and best practices
+- A resource for fellow developers and tech enthusiasts
 
-## What Is This? Why I Do This
-This PKM system is my personal digital garden—a curated space for organizing and growing my knowledge. It serves as a repository of:
-- Notes on projects I’m working on.
-- Technical insights and best practices.
-- Reflections and lessons from my work and learning.
+## 🎨 Key Topics
+- Mobile Development (Android, React Native, Flutter)
+- Automation & Workflows
+- Project Management
+- Technical Architecture
+- Development Best Practices
 
-I created this to:
-- Keep my knowledge structured and accessible.
-- Enhance my learning process by connecting ideas.
-- Share insights and resources with others.
+## 🧭 How to Navigate
+1. **Browse Knowledge Hubs**: Explore categorized content through linked notes
+2. **Use Maps of Content (MOCs)**: Get quick overviews of related topics
+3. **Search by Tags**: Find specific topics using the tag system (`Ctrl + K`)
+4. **Follow Projects**: Learn from real-world development experiences
+5. **Explore Insights**: Discover technical solutions and best practices
 
-### Tags
-#PKM #KnowledgeManagement #Learning #Insights #DigitalGarden
+## 🔍 Who This Is For
+- Mobile developers seeking practical insights
+- Developers interested in cross-platform development
+- Professionals exploring automation solutions
+- Anyone interested in technical knowledge management
 
-## Who Should Read This
-This PKM is designed for:
-- Developers and technologists looking to learn about mobile development, automation, and low-code solutions.
-- Professionals seeking insights on managing complex projects and technical workflows.
-- Anyone curious about how a developer organizes and leverages knowledge for growth and problem-solving.
+## 🤝 Connect With Me
+Have questions or want to discuss tech? Feel free to reach out:
+- 📧 Email: khoa.nguyen.bk18@gmail.com
+- 💼 LinkedIn: [Connect on LinkedIn](https://www.linkedin.com/in/khoanguyenbk18/)
+- 💬 Chat: Available on [WhatsApp](https://wa.me/84766306965) / [Telegram](https://t.me/84766306965) / [Zalo](https://zalo.me/84766306965)
 
-### Tags
-#Audience #Developers #Technologists #ProjectManagement #Workflow
+## 🏷️ Popular Tags
+`#MobileDevelopment` `#Android` `#CrossPlatform` `#Automation` `#BestPractices` `#PKM` `#KnowledgeManagement` `#Innovation`
 
-## How to Use This
-1. **Browse the Knowledge Hubs**: Explore topics like mobile development, automation, and project management through linked notes and tags.
-2. **Leverage Maps of Content (MOCs)**: Use the "Maps of Content" pages for an overview and quick navigation to related notes.
-3. **Search for Tags**: Find notes based on specific technologies, skills, or projects using tags.
-4. **Follow My Thought Process**: Discover how I approach problem-solving by reading project breakdowns and reflections.
-5. **Apply What You Learn**: Adapt the structure or insights from this PKM to your own projects and workflows.
+---
 
-### Tags
-#HowTo #KnowledgeHubs #MOCs #Tags #ProblemSolving
-
-Thank you for visiting! I hope you find this PKM system insightful, helpful, and inspiring.
-
-
-Visit at: [Here](https://khoabk12.github.io/quartz/)
-Thank you for great tool: [Quartz](https://quartz.jzhao.xyz/)
+Built with 💚 using [Quartz](https://quartz.jzhao.xyz/) - A powerful static-site generator for digital gardens.
